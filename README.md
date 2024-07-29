@@ -288,6 +288,3 @@ Though XGboost model has given Higher `roc_auc` and better `recall`, I believe a
 3. After seeing these comparision on auc_roc score, confusion matrix, and recall score, since all the above algorithm have given similar result with slightly different recall scores, Xgboost with `FN=37` but with higher `auc_score 0f 0.98` performs over-all better. Hence for webapplication deployment, I have chosen Xgboost as it also faster than adaboost.
 
 Hence with all the mentioned implementation, the web application was successfully deployed and necessary project walktrhough can be accessed from `Data and models` directory.
-
-
-# Earthquake-Predictor
